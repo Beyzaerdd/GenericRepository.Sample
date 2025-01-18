@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyRepository.EFCore.Abstractions", "EasyRepository.EFCore.Abstractions\EasyRepository.EFCore.Abstractions.csproj", "{1594099E-26DA-4FBA-BA86-8939B4EC734D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1594099E-26DA-4FBA-BA86-8939B4EC734D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1594099E-26DA-4FBA-BA86-8939B4EC734D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1594099E-26DA-4FBA-BA86-8939B4EC734D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1594099E-26DA-4FBA-BA86-8939B4EC734D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B495F51-42BF-4AB9-9CD2-C46F1A8BBC3B}
+	EndGlobalSection
+EndGlobal
